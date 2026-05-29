@@ -19,7 +19,7 @@ OmniEval is an asynchronous framework designed to automate prompt execution and 
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/yourusername/multi-llm-evaluator.git
+   https://github.com/LORDE01V/MULTI-LLM-EVALUATOR.git
    cd multi-llm-evaluator
    pip install -r requirements.txt
    ```
