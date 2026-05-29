@@ -30,3 +30,14 @@ OmniEval is an asynchronous framework designed to automate prompt execution and 
    ```bash
    python run.py
    ```
+
+### Interactive notebook (see question, answers, then rankings)
+
+For step-by-step output in the browser, open `evaluator.ipynb` and run each cell:
+
+```bash
+pip install -r requirements.txt
+jupyter notebook evaluator.ipynb
+```
+
+Answers appear **live** as each model finishes. Review all responses in the next cell, then run the final cell for rankings.
