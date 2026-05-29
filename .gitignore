@@ -1,0 +1,7 @@
+# Environments and Credentials
+.env
+.env.*
+*.env
+
+# Allow the template file to be pushed to GitHub
+!.env.example
